@@ -1,4 +1,4 @@
-# 🤖 Pavel Rukin • Android Developer
+# <img src="./robot.svg" width="45" alt="Android Robot"/> Pavel Rukin • Android Developer
 
 > Crafting beautiful Android apps with Kotlin | Material Design • Clean Architecture • Performance
 
